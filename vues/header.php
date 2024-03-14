@@ -1,4 +1,4 @@
-<nav class="sticky z-50 bg-white w-full top-0 left-0 border-b border-jauneor">
+<nav class="sticky z-50 bg-white w-full top-0 left-0 border-b-2 border-marron drop-shadow-lg">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <div class="w-20 h-20">
       <a href="index.php"> <img src='./img/logo.png' alt="Logo du site"></a>
@@ -16,22 +16,22 @@
       </button>
     </div>
 
-    <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
+    <div class="items-center text-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
       <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50
       md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white">
-        <li class="block py-2 pl-3 pr-4 text-gray-900 rounded md:hover:text-jauneor md:p-0">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Accueil</a>
         </li>
-        <li class="block py-2 pl-3 pr-4 text-gray-900 rounded md:hover:text-jauneor md:p-0">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white text-center bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Animaux & habitats</a>
         </li>
-        <li class="block py-2 pl-3 pr-4 text-gray-900 rounded md:hover:text-jauneor md:p-0">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Services</a>
         </li>
-        <li class="block py-2 pl-3 pr-4 text-gray-900 rounded md:hover:text-jauneor md:p-0">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Préparer sa visite</a>
         </li>
-        <li class="block py-2 pl-3 pr-4 text-gray-900 rounded md:hover:text-jauneor md:p-0">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Contact</a>
         </li>
       </ul>
