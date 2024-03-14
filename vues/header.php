@@ -19,22 +19,27 @@
     <div class="items-center text-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
       <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50
       md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white">
-        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-sm text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Accueil</a>
         </li>
-        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white text-center bg-jauneor rounded-lg md:hover:text-marron md:p-3">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-sm text-white text-center bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Animaux & habitats</a>
         </li>
-        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-sm text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Services</a>
         </li>
-        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-sm text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Préparer sa visite</a>
         </li>
-        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
+        <li class="block w-40 h-10 py-2 pl-3 pr-4 flex items-center justify-center text-sm text-white bg-jauneor rounded-lg md:hover:text-marron md:p-3">
           <a href="index.php">Contact</a>
         </li>
       </ul>
+      <div class="w-20 h-20">
+        <a href="index.php"> <img src='img/connexion.png' alt="Logo du site"></a>
+      </div>
     </div>
+      
+
   </div>
 </nav>
